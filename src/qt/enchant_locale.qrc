@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/enchant_bg.qm</file>
+        <file alias="ca">locale/enchant_ca.qm</file>
+        <file alias="cs">locale/enchant_cs.qm</file>
+        <file alias="da">locale/enchant_da.qm</file>
+        <file alias="de">locale/enchant_de.qm</file>
+        <file alias="en">locale/enchant_en.qm</file>
+        <file alias="en_US">locale/enchant_en_US.qm</file>
+        <file alias="es">locale/enchant_es.qm</file>
+        <file alias="fi">locale/enchant_fi.qm</file>
+        <file alias="fr_FR">locale/enchant_fr_FR.qm</file>
+        <file alias="it">locale/enchant_it.qm</file>
+        <file alias="ja">locale/enchant_ja.qm</file>
+        <file alias="ko_KR">locale/enchant_ko_KR.qm</file>
+        <file alias="nl">locale/enchant_nl.qm</file>
+        <file alias="pl">locale/enchant_pl.qm</file>
+        <file alias="pt">locale/enchant_pt.qm</file>
+        <file alias="pt_BR">locale/enchant_pt_BR.qm</file>
+        <file alias="ro_RO">locale/enchant_ro_RO.qm</file>
+        <file alias="ru">locale/enchant_ru.qm</file>
+        <file alias="sk">locale/enchant_sk.qm</file>
+        <file alias="sv">locale/enchant_sv.qm</file>
+        <file alias="tr">locale/enchant_tr.qm</file>
+        <file alias="uk">locale/enchant_uk.qm</file>
+        <file alias="zh_CN">locale/enchant_zh_CN.qm</file>
+        <file alias="zh_TW">locale/enchant_zh_TW.qm</file>
+    </qresource>
+</RCC>
